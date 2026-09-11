@@ -1,0 +1,11 @@
+Employee_ID,Full_Name,Gender,Department,Role,Employment_Type,Location,Years_Experience
+EMP001,Brian Otieno,Male,Engineering,Senior Software Engineer,Full-Time,Nairobi,6
+EMP002,Faith Wanjiku,Female,Engineering,Frontend Developer,Full-Time,Nairobi,3
+EMP003,Kevin Mwangi,Male,Engineering,Backend Developer,Full-Time,Nairobi,4
+EMP004,Sharon Akinyi,Female,Engineering,DevOps Engineer,Full-Time,Nairobi,5
+EMP005,Dennis Kiptoo,Male,Engineering,Cloud Engineer,Full-Time,Eldoret,4
+EMP006,Ann Njeri,Female,Engineering,Mobile App Developer,Full-Time,Nairobi,3
+EMP007,Collins Mutua,Male,IT,IT Support Specialist,Full-Time,Machakos,3
+EMP008,Esther Nyambura,Female,IT,System Administrator,Full-Time,Nairobi,5
+EMP009,Samuel Kibet,Male,IT,Network Engineer,Full-Time,Nakuru,6
+EMP010,Mercy Wambui,Female,IT,Cybersecurity Analyst,Full-Time,Nairobi,4
